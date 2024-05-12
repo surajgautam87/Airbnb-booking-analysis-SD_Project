@@ -61,5 +61,4 @@ Data Visualization
 
 Conclusion
 
-The purpose of the analysis
-understanding the factors that influence Airbnb prices in New York City, or identifying patterns of all variables and Our analysis provides useful information for travelers and hosts in the city and also provides some best insights for Airbnb business.
+In this Airbnb Exploratory Data Analysis project, I delve into a dataset comprising approximately 49,000 observations with 16 columns, encompassing a mix of categorical and numeric values. Through Pandas for data manipulation, aggregation, and NumPy for computational efficiency, I gained insights into the dynamics of Airbnb listings. Leveraging Matplotlib and Seaborn, I crafted over five visualizations, uncovering trends, patterns, and correlations within the data. This analysis serves as a foundational resource for understanding user and host behaviors, informing business strategies, enhancing security measures, and guiding marketing initiatives within the Airbnb ecosystem.
