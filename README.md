@@ -1,5 +1,6 @@
 # Capstone-EDA-project-Airbnb-bookings-analysis
 AirBnb
+![image](https://github.com/surajgautam87/Airbnb-booking-analysis-SD_Project/assets/160303501/0831e5b9-a963-4d9a-9001-5307671dd38c)
 
 Table Of Contents
 
